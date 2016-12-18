@@ -10,7 +10,7 @@
     "estimote"
   ],
   "peerDependencies": {
-    "react-native": "=> 0.39.0"
+    "react-native": ">= 0.39.0"
   },
   "main": "RNEstimote.ios.js"
 }
